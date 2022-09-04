@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Eldar Kurtic # add your name
-author-img: eldar_kurtic.jpg # add your photo
+author-img: eldar_kurtic_tiny.jpg # add your photo
 about-author: Betrayed control theory and electronics to tune learning rate and batch size. # add description
 social-twitter: _EldarKurtic # add your Twitter handle
 social-github: eldarkurtic # add your Github handle
